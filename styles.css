@@ -1,0 +1,65 @@
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+p.double {
+    border-style: double;
+  
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 8px;
+}
+
+.fcc-btn {
+    background-color: #3f16d3;
+    color: rgb(221, 215, 240);
+    padding: 4.5px 5px;
+}
+.insta {
+margin-left: auto;
+margin-right: auto;
+width: 25%;
+}
+.cen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200%;
+}
+.cent{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.center {
+ display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 2%;
+}
+
+/* <span class="w3-tag w3-jumbo w3-blue">66</span><span class="w3-tag w3-jumbo w3-blue w3-padding-large">66</span> */

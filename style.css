@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(138, 192, 76);
+}
+
+
+.c{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8%;
+}
+.ce {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+}
